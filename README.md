@@ -1,14 +1,14 @@
-# Credit_Card_Financial_Dashboard
-Problem Statement:
-To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively. ![image](https://github.com/user-attachments/assets/92b161d5-648c-4c85-bec8-37aa11535959)
-![image](https://github.com/user-attachments/assets/90509a47-be4e-4af9-8806-ff0ed6cd85e4)
-
-
-
-Description:
+# Credit-Card-Financial-Dashboard-PowerBI
+https://drive.google.com/file/d/1o3RtX4UXX7YAj4K_vtAyoZNGhHGFAWn7/view?usp=sharing
+## Problem Statement:
+To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations 
+effectively.
+![Screenshot 2024-07-01 184500](https://github.com/user-attachments/assets/e2c032df-2e6d-4265-906a-0535436e4be0)
+## Description:
 The dataset contains 10,108 records with 18 columns, primarily related to credit card transactions and customer profiles. Here's a summary of key insights, correlating the data with the provided Power BI dashboard:
 
-Key Attributes from the Dataset:
+## Key Attributes from the Dataset:
+
 Card Categories: The dataset includes various card categories like Blue, Silver, Gold, and Platinum, aligning with the dashboard's "Card Category Performance" analysis.
 
 Revenue and Interest: Data for Total_Trans_Amt, Interest_Earned, and Credit_Limit can be linked to total revenue, interest earned, and transaction amount breakdowns by card categories.
@@ -21,7 +21,8 @@ Expenditure Type: The Exp Type column can be mapped to the "Revenue by Expenditu
 
 Transaction Method: The Use Chip field records whether the customer used Chip, Swipe, or Online, which aligns with the "Revenue by Use Chip" dashboard analysis.
 
-Analysis from Dataset:
+##  Analysis from Dataset:
+
 Revenue Trends by Card Category: Use Card_Category and Total_Trans_Amt to visualize which card types generate the most revenue. The Blue card appears to have higher volumes.
 
 Quarterly Performance: Track total transactions and revenue by quarter using Qtr, Total_Trans_Amt, and Total_Trans_Vol to identify peak performance periods, as shown in the Power BI dashboard.
