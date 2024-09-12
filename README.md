@@ -1,9 +1,10 @@
 # Credit-Card-Financial-Dashboard-PowerBI
-https://drive.google.com/file/d/1o3RtX4UXX7YAj4K_vtAyoZNGhHGFAWn7/view?usp=sharing
 ## Problem Statement:
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations 
 effectively.
-![Screenshot 2024-07-01 184500](https://github.com/user-attachments/assets/e2c032df-2e6d-4265-906a-0535436e4be0)
+![image](https://github.com/user-attachments/assets/75508d1a-a5d2-4b31-b6af-c1fd350b7108)
+![image](https://github.com/user-attachments/assets/192c99b9-d0ac-4230-a71e-ffde468a6df6)
+
 ## Description:
 The dataset contains 10,108 records with 18 columns, primarily related to credit card transactions and customer profiles. Here's a summary of key insights, correlating the data with the provided Power BI dashboard:
 
